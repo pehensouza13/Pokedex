@@ -26,9 +26,6 @@ Prévia do App
 - Tela de Detalhes do Pokémon
 - ![image](https://github.com/user-attachments/assets/10ff9813-a268-4444-9398-16b6e9950fe8)
 
-Baixar APK
-Faça o download do APK pelo link: 🔗 **[Baixar APK]**
-
 Abra usando QR Code
 Escaneie o QR Code abaixo para acessar o app diretamente no seu dispositivo:
 ![image](https://github.com/user-attachments/assets/6c852e94-231b-48c8-968d-a420009d47a0)
