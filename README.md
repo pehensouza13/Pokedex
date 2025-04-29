@@ -1,9 +1,3 @@
-
-Com certeza! Vou montar uma versão mais **estilosa**, moderna e agradável de ler — com mais ícones, divisores visuais, pequenos destaques em negrito, blocos de código e melhor espaçamento.  
-Aqui está a nova proposta:
-
----
-
 # 🎯 Pokédex Flutter App
 
 Bem-vindo ao **Pokédex Flutter App**!  
@@ -59,35 +53,5 @@ Gerenciamento de usuários diretamente pelo **Firebase**:
 
 ![QR Code](https://github.com/user-attachments/assets/6c852e94-231b-48c8-968d-a420009d47a0)
 
----
 
-## ⚡ Como Rodar o Projeto
-
-Clone o repositório e execute:
-
-```bash
-# Clone o projeto
-git clone https://github.com/seu-usuario/pokedex-flutter-app.git
-
-# Acesse a pasta do projeto
-cd pokedex-flutter-app
-
-# Instale as dependências
-flutter pub get
-
-# Execute o aplicativo
-flutter run
-```
-
-Certifique-se de ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina! 🚀
-
----
-
-> Desenvolvido com ❤️ usando Flutter + Firebase.
-
----
-
-### 🚀 Quer que eu também te ajude a montar um README em estilo ainda mais "premium" (com badges, links dinâmicos e seção "Sobre o projeto" tipo portfólio)? 🎨✨
-
-Te interessa?
 
